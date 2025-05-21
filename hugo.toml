@@ -7,3 +7,19 @@ theme = "console"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "delta-green/"
+  url = "delta-green/"
+  
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
