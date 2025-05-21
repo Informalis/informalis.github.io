@@ -10,9 +10,11 @@ title = 'Delta Green'
 
 ## Character Generation
 
-* [Delta Green Character Creator](https://dgbirdwatching.com/CharacterSheet.html)
-* [In ⟁ Human Resources](https://fnato.xyz/)
+* Actually functional: [Delta Green Character Creator](https://dgbirdwatching.com/CharacterSheet.html)
+* Bad UI, export doesn't work: [In ⟁ Human Resources](https://fnato.xyz/)
 * Bulk generation: [jimstorch/DGGen: DDGen creates pre-generated characters (PDF) for the pen & paper RPG Delta Green](https://github.com/jimstorch/DGGen)
+* randomness, bond generator: [PigeonFX/DELTA-GREEN-STATS: A simple tool to create Delt Green player stat through point-buy or random dice rolls.](https://github.com/PigeonFX/DELTA-GREEN-STATS)
+* JSON only: [// Rampart](https://rampart.fatman.dev/agents/agent-select)
 
 ## Handler Resources
 
