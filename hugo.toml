@@ -1,0 +1,9 @@
+baseURL = 'https://informalis.github.io/'
+languageCode = 'en-us'
+title = "Cass's RPG nonsense"
+theme = "console"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
