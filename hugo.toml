@@ -9,8 +9,7 @@ theme = "zen"
     dir = ':cacheDir/images'
 
 [params]
-  breadcrumbSections = [ "pathfinder", "delta-green" ]
-  mainSections = [ "" ]
+  mainSections = [ "pathfinder", "delta-green" ]
   logo = false
   menuInHeader = true
 
@@ -28,7 +27,7 @@ pageRef = "/"
 [[languages.en.menu.main]]
 Name = "Pathfinder"
 weight = 2
-pageRef = "/pathfinder"
+pageRef = "/pathfinder/"
 
 [[languages.en.menu.main]]
 Name = "Delta Green"

@@ -2,6 +2,7 @@
 date = '2025-05-21T15:33:57-04:00'
 draft = false
 title = 'Delta Green'
+summary = "A collection of links for now."
 +++
 
 ## Generally Useful
