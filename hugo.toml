@@ -34,6 +34,11 @@ Name = "Delta Green"
 weight = 4
 pageRef = "/delta-green/"
 
+[[languages.en.menu.main]]
+Name = "Vampire: Dark Ages"
+weight = 4
+pageRef = "/vda/"
+
 # [[languages.en.menu.main]]
 # Name = "Products"
 # weight = 6
